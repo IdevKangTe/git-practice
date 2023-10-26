@@ -1,3 +1,2 @@
 name: yunji, jinsu
 age: 28, 27
-add: incheon
