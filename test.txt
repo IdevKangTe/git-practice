@@ -2,3 +2,4 @@
 아아라치
 reset test
 fetch test
+fetch test2
